@@ -1,4 +1,4 @@
-<p>SCRIPT REN_DDOS V1</p>
+<p>[ SCRIPT REN_DDOS V1 ]</p>
 
 # cara install script 
 
