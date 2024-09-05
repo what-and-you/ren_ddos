@@ -31,4 +31,4 @@ python ren_ddos.py
   <center>
 <font size="15">outhor REN9999</font>
     <center>
-<font size="15">SCRIPT DDOS INI MASIH LEMAH</font>
+<font size="15">SCRIPT DDOS INI MASIH LEMAH BUAT WEBSITE .COM TAPI WEBSITE LAIN TERGANTUNG KEAMANAN NYA</font>
