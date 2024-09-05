@@ -26,6 +26,9 @@ cd ren_ddos
 ```
 python ren_ddos.py
 ```
-
+<center>
 <h1>SCRIPT BY REN9999</h1>
+  <center>
+<font size="15">outhor REN9999</font>
+    <center>
 <font size="15">SCRIPT DDOS INI MASIH LEMAH</font>
