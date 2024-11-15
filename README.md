@@ -11,12 +11,19 @@ pkg upgrade
 ```
 git clone https://github.com/what-and-you/ren_ddos.git
 ```
-# cara menggunakan script
+# cara menggunakan script untuk versi ke 1
 ```
 cd ren_ddos
 ```
 ```
 python ren_ddos.py
+```
+# cara menggunakan script untuk versi ke 2
+```
+cd ren_ddos
+```
+```
+python ren_ddos2.py
 ```
 # cara update script
 ```
